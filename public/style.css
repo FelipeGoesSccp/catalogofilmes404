@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  height: 100vh; /* Altura total da tela (viewport) */
+  background-image: url('/public/img/404.png');
+  background-size: cover; /* Redimensiona para cobrir toda a área */
+  background-position: center; /* Centraliza a imagem */
+  background-repeat: no-repeat; /* Evita repetição */
+  background-attachment: fixed; /* Opcional: mantém a imagem parada ao rolar */
+}
